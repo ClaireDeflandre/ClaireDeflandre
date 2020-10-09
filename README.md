@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Cover](https://github.com/ClaireObscure/ClaireObscure/blob/master/img/papillons.jpg)
+![Cover](https://github.com/ClaireObscure/ClaireObscure/blob/main/Img/papillons.jpg)
 <!--
 **ClaireObscure/ClaireObscure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
